@@ -1,13 +1,14 @@
-# Project Name
+# Course Reviews Module
 
-> Project description
+> Course Review microservice generates 100 unique course review pages, with a varying number of reviews per page. Reviews are a combination of text and star ratings (1 to 5). Star ratings feed into bar graphs that give a visual representation of how the reviews are distributed.
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/Ingenuity-rpt26/shane-service-about
+  - https://github.com/Ingenuity-rpt26/vinay-titleBanner-service
+  - https://github.com/Ingenuity-rpt26/jsmithInstructorsService
+  - https://github.com/Ingenuity-rpt26/jsmithSyllabusesService
+  - https://github.com/Ingenuity-rpt26/shane-proxy
 
 ## Table of Contents
 
@@ -17,7 +18,7 @@
 
 ## Usage
 
-> Some usage instructions
+> From within the db directory, run seeder.js to seed the database and wait for it to complete. Run npm build to build the webpack bundle Run npm start to start the server. Server runs on port 3007.
 
 ## Requirements
 
